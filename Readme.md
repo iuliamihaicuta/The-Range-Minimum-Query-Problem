@@ -1,7 +1,7 @@
 # Range Minimum Query Problem
 ### Mihaicuta Iulia-Andreea-Naomi 324CA
 
-## Structura Fisierelor
+## Files Structure
 * generate_tests/ - the programs used to generate the 4 types of tests
 * in/
     * test[1-16] wide range of values for the lengths of the queries
@@ -12,8 +12,6 @@
 * times_of_algorithms - programs that measured test-taking time and the time stamps
 * segment_tree.c - square_root.c - sparse_table.c - the sources
 * Makefile
-
-The first test is proposed for the competition.
 
 The next sites were used for sources:
 * https://www.geeksforgeeks.org/segment-tree-range-minimum-query/
